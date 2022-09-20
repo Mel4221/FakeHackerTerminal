@@ -1,0 +1,7 @@
+/home/mel/Projects/FakeHackerScreen/bin/Release/FakeHackerScreen.exe
+/home/mel/Projects/FakeHackerScreen/bin/Release/QuickTools.dll
+/home/mel/Projects/FakeHackerScreen/bin/Release/QuickTools.xml
+/home/mel/Projects/FakeHackerScreen/obj/x86/Release/FakeHackerScreen.csproj.AssemblyReference.cache
+/home/mel/Projects/FakeHackerScreen/obj/x86/Release/FakeHackerScreen.csproj.CoreCompileInputs.cache
+/home/mel/Projects/FakeHackerScreen/obj/x86/Release/FakeHackerScreen.csproj.CopyComplete
+/home/mel/Projects/FakeHackerScreen/obj/x86/Release/FakeHackerScreen.exe
